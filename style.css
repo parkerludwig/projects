@@ -1,0 +1,101 @@
+html,
+
+.topnav {
+  background-color: #8fb4d6;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.center {
+  display: inline-block;
+  justify-content: center;
+  background-color: #8fb4d6;
+  align-items: center;
+}
+
+.table-container {
+  width: 100%
+}
+
+.profile-picture {
+  display: table-cell;
+  background-color: #8fb4d6;
+  border-radius: 5%;
+  overflow: hidden;
+}
+
+.name {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 2px;
+  align-items: center;
+  display: inline-block;
+}
+
+.personal-statement {
+    display: table-cell;
+    text-size-adjust: auto;
+    vertical-align: middle;
+    background-color: #8fb4d6;
+}
+
+.wrapper1 {
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin: auto;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+.wrapper3 {
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #8fb4d6;
+  text-align: center;
+}
+
+.curriculum-vitae {
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    background-color: #437fb6;
+    width: 100%;
+}
+
+.curriculum-vitae a {
+    text-decoration: none;
+    padding: 4px;
+    display: inline-block;
+}
+
+.curriculum-vitae a:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.created {
+    display: inline-block;
+    font-size: 10px;
+    background-color: #d2e1ee;
+    width: 100%;
+}
