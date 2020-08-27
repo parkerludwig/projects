@@ -32,14 +32,15 @@ html,
 }
 
 .table-container {
-  
+  width: 100%
 }
 
 .profile-picture {
-  display: table-cell;
+  display: block;
   background-color: #8fb4d6;
-  float: center;
-  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .name {
