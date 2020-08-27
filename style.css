@@ -24,7 +24,9 @@ html,
 }
 
 .center {
-  display: inline-block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   justify-content: center;
   background-color: #8fb4d6;
   align-items: center;
