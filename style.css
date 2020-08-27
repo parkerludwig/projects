@@ -37,6 +37,7 @@ html,
 .profile-picture {
   display: table-cell;
   background-color: #8fb4d6;
+  float: center;
   overflow: hidden;
 }
 
